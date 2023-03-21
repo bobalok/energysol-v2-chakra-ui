@@ -1,3 +1,5 @@
+"use strict";
+import Features from "@components/features";
 import Hero from "@components/hero";
 import Status from "@components/status";
 import Head from "next/head";
@@ -13,6 +15,7 @@ export default function Home() {
       </Head>
       <Hero />
       <Status />
+      <Features />
     </>
   );
 }

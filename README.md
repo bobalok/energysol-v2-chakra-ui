@@ -8,7 +8,7 @@
 - [x] Navbar logo
 - [x] Navbar links
 - [x] Hero | ⌛✅
-- [ ] Status | ⌛
+- [x] Status | ⌛✅
 - [ ] Feature
 - [ ] Testimonial
 
